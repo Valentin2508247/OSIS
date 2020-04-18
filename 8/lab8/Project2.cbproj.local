@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/05 23:36:23.000.309,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2019/12/05 23:36:26.000.553,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/12/05 23:36:53.000.716,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab8\Unit1.dfm</Transaction>
+    <Transaction>2019/12/05 23:36:53.000.716,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab8\Unit1.cpp</Transaction>
+    <Transaction>2019/12/05 23:36:53.000.716,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab8\Unit1.h</Transaction>
+    <Transaction>2019/12/05 23:36:56.000.299,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab8\Project2PCH1.h</Transaction>
+    <Transaction>2019/12/05 23:37:01.000.779,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab8\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

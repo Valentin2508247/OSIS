@@ -1,0 +1,3 @@
+﻿  lab10B.cpp
+C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab10B\lab10B\lab10B.cpp(26,2): warning C4091: typedef : пропускается слева от "WM_DRAW_data", когда ни одна переменная не объявлена
+  lab10B.vcxproj -> C:\Users\ASUS\Desktop\Valentin\semester_5\СП\labs\lab10B\Debug\lab10B.exe
